@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/easy/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Projects/easy/app/src/main/res/layout/help_dialog.xml" value="0.17657657657657658" />
+        <entry key="..\:/Projects/easy/app/src/main/res/layout/list_item_search.xml" value="0.17657657657657658" />
+        <entry key="..\:/Projects/easy/app/src/main/res/layout/main.xml" value="0.17657657657657658" />
+        <entry key="..\:/Projects/easy/app/src/main/res/layout/search_main.xml" value="0.16441441441441443" />
+        <entry key="..\:/Projects/easy/app/src/main/res/layout/settings_main.xml" value="0.17657657657657658" />
+        <entry key="..\:/Projects/easy/app/src/main/res/menu/iuhu.xml" value="0.17657657657657658" />
+        <entry key="..\:/Projects/easy/app/src/main/res/menu/menu_main.xml" value="0.17657657657657658" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
